@@ -50,7 +50,7 @@ body {
 /*main-content*/
 
 .mission-container {
-    background-image: url(images/img-mission-background.jpeg);
+    background-image: url(img-mission-background.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     height: 700px;
@@ -89,7 +89,7 @@ body {
     max-width: 1200px;
     margin: 40px auto auto auto;
     padding-top: 85px;
-    background-image: url(images/img-locations-background.jpeg);
+    background-image: url(img-locations-background.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
